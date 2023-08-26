@@ -1,9 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import MainCard from "../shared/MainCard/MainCard";
 import "./Main.css";
 import universityList from "../../data/universityList.json";
 
 function Main() {
+  const [show, setShow] = useState(false);
   return (
     <div className="main">
       <div className="container">
@@ -15,12 +16,16 @@ function Main() {
           </p>
         </div>
         <div className="mainSec_cardContainer">
-          {universityList.map((el) => (
+          {universityList.main.map((el) => (
             <MainCard key={el.id} val={el.val} />
           ))}
+          {show &&
+            universityList.more.map((el) => (
+              <MainCard key={el.id} val={el.val} />
+            ))}
         </div>
         <div className="mainSec_showMore  center">
-          <span>show more...</span>
+          <span onClick={() => setShow(true)}>show more...</span>
         </div>
       </div>
     </div>
