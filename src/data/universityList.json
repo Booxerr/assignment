@@ -1,74 +1,42 @@
 [
   {
-    "id": "1",
-    "val": "Cambridge university"
+      "id": "1",
+      "val": "Cambridge University"
   },
   {
-    "id": "2",
-    "val": "Cambridge university"
+      "id": "2",
+      "val": "Oxford University"
   },
   {
-    "id": "3",
-    "val": "Cambridge university"
+      "id": "3",
+      "val": "Harvard University"
   },
   {
-    "id": "4",
-    "val": "Cambridge university"
+      "id": "4",
+      "val": "Stanford University"
   },
   {
-    "id": "5",
-    "val": "Cambridge university"
+      "id": "5",
+      "val": "MIT"
   },
   {
-    "id": "6",
-    "val": "Cambridge university"
+      "id": "6",
+      "val": "Princeton University"
   },
   {
-    "id": "7",
-    "val": "Cambridge university"
+      "id": "7",
+      "val": "Yale University"
   },
   {
-    "id": "8",
-    "val": "Cambridge university"
+      "id": "8",
+      "val": "Columbia University"
   },
   {
-    "id": "9",
-    "val": "Cambridge university"
+      "id": "9",
+      "val": "Caltech"
   },
   {
-    "id": "1",
-    "val": "Cambridge university"
-  },
-  {
-    "id": "1",
-    "val": "Cambridge university"
-  },
-  {
-    "id": "1",
-    "val": "Cambridge university"
-  },
-  {
-    "id": "1",
-    "val": "Cambridge university"
-  },
-  {
-    "id": "1",
-    "val": "Cambridge university"
-  },
-  {
-    "id": "1",
-    "val": "Cambridge university"
-  },
-  {
-    "id": "1",
-    "val": "Cambridge university"
-  },
-  {
-    "id": "1",
-    "val": "Cambridge university"
-  },
-  {
-    "id": "1",
-    "val": "Cambridge university"
+      "id": "10",
+      "val": "University of Chicago"
   }
 ]

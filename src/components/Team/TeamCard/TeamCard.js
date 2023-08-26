@@ -12,6 +12,7 @@ function TeamCard({ data }) {
         />
         <div class="teamCard__cardName">{data.name}</div>
         <div class="teamCard__cardTitle">{data.designation}</div>
+        <div class="teamCard__cardDiscrip">{data.description}</div>
         <div class="teamCard__cardDetails">
           <a href={data.linkedin}>
             <i class="fab fa-linkedin"></i>
