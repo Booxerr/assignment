@@ -1,0 +1,63 @@
+[
+    {
+
+        "data": [
+            {
+                "name": "John Doe",
+                "photo": "/img/john_doe.jpg",
+                "linkedin": "https://www.linkedin.com/in/johndoe",
+                "twitter": "https://twitter.com/johndoe",
+                "designation": "CEO",
+                "description": "Harvard Business School"
+            },
+            {
+                "name": "Jane Smith",
+                "photo": "jane_smith.jpg",
+                "linkedin": "https://www.linkedin.com/in/janesmith",
+                "twitter": "https://twitter.com/janesmith",
+                "designation": "CTO",
+                "description": "Stanford University"
+            },
+            {
+                "name": "Michael Johnson",
+                "photo": "https://media.istockphoto.com/id/1348968807/photo/shot-of-an-female-it-technician-in-a-server-room-and-using-a-laptop.webp?s=2048x2048&w=is&k=20&c=G0FM2Ute98RO0NBEfaThsz8iCXTeWyOOf9GzGIAT0N0=",
+                "linkedin": "https://www.linkedin.com/in/michaeljohnson",
+                "twitter": "https://twitter.com/michaeljohnson",
+                "designation": "CFO",
+                "description": "IIT Goa"
+            },
+            {
+                "name": "Emily Davis",
+                "photo": "emily_davis.jpg",
+                "linkedin": "https://www.linkedin.com/in/emilydavis",
+                "twitter": "https://twitter.com/emilydavis",
+                "designation": "CMO",
+                "description": "MIT Sloan School of Management"
+            },
+            {
+                "name": "Robert Wilson",
+                "photo": "robert_wilson.jpg",
+                "linkedin": "https://www.linkedin.com/in/robertwilson",
+                "twitter": "https://twitter.com/robertwilson",
+                "designation": "COO",
+                "description": "Wharton School, UPenn"
+            },
+            {
+                "name": "Sophia Anderson",
+                "photo": "sophia_anderson.jpg",
+                "linkedin": "https://www.linkedin.com/in/sophiaanderson",
+                "twitter": "https://twitter.com/sophiaanderson",
+                "designation": "VP of Sales",
+                "description": "Kellogg School of Management"
+            },
+            {
+                "name": "David Lee",
+                "photo": "david_lee.jpg",
+                "linkedin": "https://www.linkedin.com/in/davidlee",
+                "twitter": "https://twitter.com/davidlee",
+                "designation": "VP of Marketing",
+                "description": "Columbia Business School"
+            }
+        ]
+    }
+]
