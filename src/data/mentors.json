@@ -3,7 +3,7 @@
     "data": [
       {
         "name": "John Doe",
-        "photo": "/img/john_doe.jpg",
+        "photo": "/img/john_doe.webp",
         "linkedin": "#",
         "twitter": "#",
         "designation": "CEO",
@@ -11,7 +11,7 @@
       },
       {
         "name": "Jane Smith",
-        "photo": "/img/pexels-andrea-piacquadio-733872.jpg",
+        "photo": "/img/pexels-andrea-piacquadio-733872.webp",
         "linkedin": "#",
         "twitter": "#",
         "designation": "CTO",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Michael Johnson",
-        "photo": "/img/pexels-pixabay-415829.jpg",
+        "photo": "/img/pexels-pixabay-415829.webp",
         "linkedin": "#",
         "twitter": "#",
         "designation": "CFO",
@@ -27,7 +27,7 @@
       },
       {
         "name": "Emily Davis",
-        "photo": "/img/pexels-pixabay.jpg",
+        "photo": "/img/pexels-pixabay.webp",
         "linkedin": "#",
         "twitter": "#",
         "designation": "CMO",
@@ -35,7 +35,7 @@
       },
       {
         "name": "Robert Wilson",
-        "photo": "/img/pexels-pixabay-415829.jpg",
+        "photo": "/img/pexels-pixabay-415829.webp",
         "linkedin": "#",
         "twitter": "#",
         "designation": "COO",
@@ -43,7 +43,7 @@
       },
       {
         "name": "Sophia Anderson",
-        "photo": "/img/pexels-andrea-piacquadio-733872.jpg",
+        "photo": "/img/pexels-andrea-piacquadio-733872.webp",
         "linkedin": "#",
         "twitter": "#",
         "designation": "VP of Sales",
@@ -51,7 +51,7 @@
       },
       {
         "name": "David Lee",
-        "photo": "/img/pexels-pixabay.jpg",
+        "photo": "/img/pexels-pixabay.webp",
         "linkedin": "#",
         "twitter": "#",
         "designation": "VP of Marketing",
@@ -59,7 +59,7 @@
       },
       {
         "name": "Amanda Parker",
-        "photo": "/img/john_doe.jpg",
+        "photo": "/img/john_doe.webp",
         "linkedin": "https://www.linkedin.com/in/amandaparker",
         "twitter": "https://twitter.com/amandaparker",
         "designation": "VP of Marketing",
@@ -72,7 +72,7 @@
     "data": [
       {
         "name": "Sarah Brown",
-        "photo": "/img/pexels-andrea-piacquadio-733872.jpg",
+        "photo": "/img/pexels-andrea-piacquadio-733872.webp",
         "linkedin": "#",
         "twitter": "#",
         "designation": "CEO",
@@ -80,7 +80,7 @@
       },
       {
         "name": "William Clark",
-        "photo": "/img/pexels-pixabay.jpg",
+        "photo": "/img/pexels-pixabay.webp",
         "linkedin": "#",
         "twitter": "#",
         "designation": "CTO",
