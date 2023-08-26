@@ -2,7 +2,7 @@ import React from "react";
 import "./TeamCard.css";
 function TeamCard({ data }) {
   return (
-    <div className="teamCard">
+    <div className="teamCard fade-in">
       <div class="teamCard__card">
         <img
           class="teamCard__cardImg"

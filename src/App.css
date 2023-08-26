@@ -39,3 +39,16 @@ body {
 ul {
   list-style: none;
 }
+.fade-in {
+  opacity: 0;
+  animation: fadeInAnimation 3.5s forwards;
+}
+
+@keyframes fadeInAnimation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
