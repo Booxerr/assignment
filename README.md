@@ -3,7 +3,7 @@
 # Screenshot
 ![](screencapture.png)
 # How to Run
-## Run Node.js
+## Run With Node.js
 ```js
 npm i
 ```
